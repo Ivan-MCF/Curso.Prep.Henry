@@ -19,7 +19,6 @@ function mayoriaDeEdad(edad) {
 mayoriaDeEdad(17);
   
 function conection(status) {
-
   if(status == 2){
     return ("Away");
   }else if(status == 1){
@@ -45,7 +44,6 @@ function saludo(idioma) {
   }
 }
 saludo("frances");
-
 
 function colors(color) {
   var blue = "This is blue";
@@ -165,6 +163,7 @@ function doWhile(numero) {
     a = a + 5;
   }
   while(i < 8);
+  
   return a;
   }
 
