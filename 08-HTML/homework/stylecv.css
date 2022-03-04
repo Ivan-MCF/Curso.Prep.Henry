@@ -1,0 +1,149 @@
+.capa {
+    width: 100%;
+    height: 200vh;
+    background: rgb(247, 211, 244);
+    position: absolute;
+    top: 0;
+}
+.titulo_p {
+    font-size: 30px;
+    position: absolute;
+    left: 450px;
+    top: 60px; 
+    color: rgb(26, 11, 240);
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+
+.titulo1 {
+    font-size: 30px;
+    position: absolute;
+    left: 500px;
+    top: 30px; 
+    color: rgb(14, 13, 15);
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+
+.h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p {
+    font-size: 20px;
+}
+img {
+    width: 200px;
+    position: absolute;
+    left: 1010px;
+    top: 0px;
+}
+.nombre {
+    position: relative;
+    left: 1050px;
+    top: 220px;
+    font-size: 30px;
+}
+.cuadro1{
+    border: 3px solid;
+    width: 1000px;
+    height: 50px;
+    color: rgb(77, 60, 77);
+    position: relative;
+    top: 70px;
+    left: 30px;
+    
+}
+.parrafo{
+    border: 3px solid;
+    width: 1000px;
+    height: 50px;
+    color: rgb(14, 0, 14);
+    position: relative;
+    top: 10px;
+    left: 30px;
+}
+
+.title1{
+    font-size: 30px;
+    position: absolute;
+    left: 450px;
+    top: 110px;
+}
+.title2{
+    font-size: 30px;
+    position: absolute;
+    left: 490px;
+    top: 410px;
+}
+.cuadroz{
+    border: 3px solid;
+    width: 1000px;
+    height: 240px;
+    color: rgb(48, 28, 48);
+    position: absolute;
+    top: 160px;
+    left: 30px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cuadroz1{
+    border: 3px solid;
+    width: 1000px;
+    height: 140px;
+    color: rgb(48, 28, 48);
+    position: absolute;
+    top: 490px;
+    left: 30px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cuadroz2{
+    border: 3px solid;
+    width: 1000px;
+    height: 120px;
+    color: rgb(48, 28, 48);
+    position: absolute;
+    top: 690px;
+    left: 30px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title3{
+    font-size: 30px;
+    position: absolute;
+    left: 430px;
+    top: 620px; 
+}
+.cuadroz3{
+    border: 3px solid;
+    width: 1000px;
+    height: 150px;
+    color: rgb(48, 28, 48);
+    position: absolute;
+    top: 870px;
+    left: 30px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title4{
+    font-size: 30px;
+    position: absolute;
+    left: 510px;
+    top: 800px; 
+}
+.cuadroz4{
+    border: 3px solid;
+    width: 1000px;
+    height: 110px;
+    color: rgb(48, 28, 48);
+    position: absolute;
+    top: 1100px;
+    left: 30px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title5{
+    font-size: 30px;
+    position: absolute;
+    left: 510px;
+    top: 1030px; 
+}
